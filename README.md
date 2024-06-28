@@ -166,7 +166,7 @@ Base URL: `http://localhost:8083`
 
 ## Requisitos
 
-- Java 11 o superior
+- Java 17
 - Maven
 - Spring Boot
 
