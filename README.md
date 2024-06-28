@@ -174,12 +174,12 @@ Base URL: `http://localhost:8083`
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/MaxiFerrez/JavaSpringFinal.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd tu_repositorio
+    cd microservicios
     ```
 
 3. Compila y ejecuta la aplicación:
@@ -187,7 +187,7 @@ Base URL: `http://localhost:8083`
     mvn spring-boot:run
     ```
 
-4. Accede a la documentación de Swagger UI en `http://localhost:8083/swagger-ui.html`
+4. Accede a la documentación de Swagger UI en `http://localhost:8083/swagger-ui.html` para Productos y `http://localhost:8082/swagger-ui.html` para Ordenes
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a maxiferrez@gmail.com
